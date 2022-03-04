@@ -6,9 +6,7 @@
 
 
 ### Sobre mim
-- Cursando 7 período de Ciência da Computação (Unis-MG).
-- Cursando Desenvolvedor Full-Stack Completo (DankiCode).
-- Cursando JavaScript Completo (DankiCode).
-- Cursando C# Completo (Udemy com Nélio Alves).
+- Cursando 8 período de Ciência da Computação (Unis-MG).
+- Cursando carreira desenvolvedor back-end dotnet (Balta.io).
 
 
